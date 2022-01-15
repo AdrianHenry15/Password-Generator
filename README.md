@@ -13,7 +13,7 @@ The purposes of this project is to generate a random password with the criteria 
 
 [Code Repository](https://github.com/AdrianHenry15/passwordgenerator)
 
-[Password Generator]()
+[Password Generator](https://adrianhenry15.github.io/passwordgenerator2/)
 
 # Installation 
 
